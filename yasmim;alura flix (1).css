@@ -1,0 +1,26 @@
+body {
+    color: black;
+    background: pink;
+}
+
+header {
+    border-bottom: solid 2px rgb(237 151 151);
+    padding: 20px;
+    font-size: 22px;
+    color: rgb(237 151 151);
+}
+
+section {
+    background: rgb(128 0 118 / 39%);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display:flex;
+    justify-content: center;
+}
+ div  {
+    margin-right: %0,3;
+ }
+
+
+
+
